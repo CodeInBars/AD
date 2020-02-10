@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<consultas>
+	<consulta id="1">
+		<paciente>11111111T</paciente>
+		<medico>3456</medico>
+		<fecha>2018-01-01</fecha>
+		<diagnostico>Faringitis</diagnostico>
+	</consulta>
+	<consulta id="2">
+		<paciente>22222222L</paciente>
+		<medico>1234</medico>
+		<fecha>2018-02-15</fecha>
+		<diagnostico>Gastroenteritis</diagnostico>
+	</consulta>
+</consultas>

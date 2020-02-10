@@ -1,0 +1,52 @@
+<asignaturas>
+
+	<asignatura codigo="001">
+		<profesor id="22222222A"/>
+		<nombre>Taller de diseño I</nombre>
+		<creditos>6</creditos>
+		<curso>2</curso>
+	</asignatura>
+	
+	<asignatura codigo="002">
+		<profesor id="22222222A"/>
+		<nombre>Mecánica y Estructuras</nombre>
+		<creditos>6</creditos>
+		<curso>3</curso>
+	</asignatura>
+	
+	<asignatura codigo="003">
+		<profesor id="11111111A"/>
+		<nombre>Metodología del Diseño</nombre>
+		<creditos>6</creditos>
+		<curso>2</curso>
+	</asignatura>
+	
+	<asignatura codigo="004">
+		<profesor id="33333333A"/>
+		<nombre>Materiales I</nombre>
+		<creditos>6</creditos>
+		<curso>2</curso>
+	</asignatura>
+	
+	<asignatura codigo="005">
+		<profesor id="44444444A"/>
+		<nombre>Taller de diseño II</nombre>
+		<creditos>6</creditos>
+		<curso>2</curso>
+	</asignatura>
+	
+	<asignatura codigo="006">
+		<profesor id="33333333A"/>
+		<nombre>Diseño de Mecanismos</nombre>
+		<creditos>12</creditos>
+		<curso>4</curso>
+	</asignatura>
+
+	<asignatura codigo="007">
+		<profesor id="11111111A"/>
+		<nombre>Álgebra Lineal</nombre>
+		<creditos>6&gt;</creditos>
+		<curso>1</curso>
+	</asignatura>
+	
+</asignaturas>

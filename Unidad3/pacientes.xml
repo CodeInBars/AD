@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+	<paciente dni="11111111T">
+		<nombre>Francisco López</nombre>
+		<fechaN>1987/12/12</fechaN>
+	</paciente>
+	<paciente dni="22222222L">
+		<nombre>María Díaz</nombre>
+		<fechaN>1980-10-05</fechaN>
+	</paciente>
+</pacientes>
+

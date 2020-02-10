@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medicos>
+	<medico numColegiado="3456">
+		<nombre>Ana Jiménez</nombre>
+		<especilidades>
+			<especialidad>Alergología</especialidad>
+			<especialidad>Dermatología</especialidad>
+		</especilidades>
+		
+		
+	</medico>
+	<medico numColegiado="1234">
+		<nombre>Antonio García</nombre>
+		<especilidades>
+			<especialidad>Digestivo</especialidad>
+		</especilidades>
+	</medico>
+</medicos>

@@ -1,0 +1,87 @@
+<personas>
+	<!--******PROFESORES******-->
+	<persona tipo="P" id="22222222A">
+		<nombre>Pilar Martín</nombre>
+		<experiencia años="5"/>
+	</persona>
+	
+	<persona tipo="P" id="11111111A">
+		<nombre>Pablo Hernández</nombre>
+		<experiencia años="14"/>
+	</persona>
+	
+	<persona tipo="P" id="33333333A">
+		<nombre>Juan Magan</nombre>
+		<experiencia años="10"/>
+	</persona>
+	
+	<persona tipo="P" id="44444444A">
+		<nombre>Ernesto Sevilla</nombre>
+		<experiencia años="2"/>
+	</persona>
+
+	
+	<!--******ALUMNOS******-->
+	<persona tipo="A" id="11111111B">
+		<nombre>Oscar Durán</nombre>
+		<asignaturas>
+			<asignatura id="001" nota="6"/>
+			<asignatura id="002" nota="8"/>
+			<asignatura id="003" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="22222222B">
+		<nombre>David Obregón</nombre>
+		<asignaturas>
+			<asignatura id="002" nota="6"/>
+			<asignatura id="003" nota="8"/>
+			<asignatura id="004" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="33333333B">
+		<nombre>Álvaro Alonso</nombre>
+		<asignaturas>
+			<asignatura id="003" nota="6"/>
+			<asignatura id="004" nota="8"/>
+			<asignatura id="005" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="44444444B">
+		<nombre>Adolfo Baltasar</nombre>
+		<asignaturas>
+			<asignatura id="004" nota="6"/>
+			<asignatura id="005" nota="8"/>
+			<asignatura id="006" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="55555555B">
+		<nombre>Carlos Jara</nombre>
+		<asignaturas>
+			<asignatura id="005" nota="6"/>
+			<asignatura id="006" nota="8"/>
+			<asignatura id="007" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="66666666B">
+		<nombre>Eduardo Alonso</nombre>
+		<asignaturas>
+			<asignatura id="001" nota="6"/>
+			<asignatura id="003" nota="8"/>
+			<asignatura id="005" nota="2"/>
+		</asignaturas>
+	</persona>
+	
+	<persona tipo="A" id="77777777B">
+		<nombre>Raúl Montes</nombre>
+		<asignaturas>
+			<asignatura id="002" nota="6"/>
+			<asignatura id="004" nota="8"/>
+			<asignatura id="006" nota="2"/>
+		</asignaturas>	
+	</persona>
+</personas>
